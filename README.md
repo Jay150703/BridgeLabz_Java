@@ -2,26 +2,18 @@
 
 ## README File
 
-• 20-Dec-2025 (Saturday): Installed and set up Notepad++, Eclipse, and JDK. Studied Java basics.
+• 09-Jan-2026 (Friday): Joined BridgeLabz Java training. Introduction to Java environment, JDK setup, and overview of training structure.
 
-• 22-Dec-2025 (Monday): Studied programming elements in Java.
+• 10-Jan-2026 (Saturday): Studied Java basics including variables, data types, operators, and input/output statements.
 
-• 23-Dec-2025 (Tuesday): Solved programming element problems.
+• 11-Jan-2026 (Sunday): Practiced basic Java programs and problem-solving under Programming Elements.
 
-• 24-Dec-2025 (Wednesday): Studied control flow statements in Java and completed related problems.
+• 12-Jan-2026 (Monday): Continued Programming Elements and solved related practice problems.
 
-• 25-Dec-2025 (Thursday): Completed scenario-based problems.
+• 13-Jan-2026 (Tuesday): Studied Control Flow concepts including if-else, switch statements, and looping constructs.
 
-• 26-Dec-2025 (Friday): Completed and submitted Array problems.
+• 14-Jan-2026 (Wednesday): Solved Control Flow Level 1 and Level 2 programs and committed code to feature/CoreProgramming branch.
 
-• 27-Dec-2025 (Saturday): Completed and submitted String problems.
+• 15-Jan-2026 (Thursday): Completed Control Flow Level 3 programs. Practiced Arrays and solved array-based problems.
 
-• 29-Dec-2025 (Monday): Studied and submitted Methods practice problems.
-
-• 30-Dec-2025 (Tuesday): Completed scenario-based problems.
-
-• 31-Dec-2025 (Wednesday): Studied Classes and Objects and completed related problems.
-
-• 01-Jan-2026 (Thursday): Studied `this`, `final`, and `static` keywords.
-
-• 02-Jan-2026 (Friday): Studied Object-Oriented Design Principles.
+• 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git and Git Flow process, branch management, and updated README as per training guidelines.

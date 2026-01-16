@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e9576bb-2744-425f-8c87-153fae55786d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/DivisibleByFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/DivisibleByFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/EmployeeBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/EmployeeBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FactorialFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FactorialFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FactorialWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FactorialWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FirstSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/FirstSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/LargestOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/LargestOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalSumCompareFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalSumCompareFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalSumCompareWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/NaturalSumCompareWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/RocketCountdownFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/RocketCountdownFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/RocketCountdownWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/RocketCountdownWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SpringSeason.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SpringSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SumUntilNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SumUntilNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SumUntilZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/SumUntilZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/VotingEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level1/VotingEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/EmployeeBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/EmployeeBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FactorsFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FactorsFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FactorsWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FactorsWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FizzBuzzFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FizzBuzzFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FizzBuzzWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/FizzBuzzWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/GreatestFactorFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/GreatestFactorFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplesBelow100For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplesBelow100For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplesBelow100While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplesBelow100While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/OddEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/OddEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/PowerFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/PowerFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/PowerWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/PowerWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/YoungestAndTallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level2/YoungestAndTallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/LeapYearIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/LeapYearIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreProgramming/ControlFlow/Level3/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="388yziMizdZFJr9TO5qO4tK3RwI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CharArrayCompare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivisibleByFive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubstringCompare.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/CoreProgramming&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/jayanthi/java/BridgeLabz_Java_CG/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jayanthi/java/BridgeLabz_Java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jayanthi/java/BridgeLabz_Java_CG/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e9576bb-2744-425f-8c87-153fae55786d" name="Changes" comment="" />
+      <created>1768195760179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768195760179</updated>
+    </task>
+    <servers />
+  </component>
+</project>

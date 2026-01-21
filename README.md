@@ -45,3 +45,11 @@
 • 15-Jan-2026 (Thursday): Completed Control Flow Level 3 programs. Practiced Arrays and solved array-based problems.
 
 • 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git and Git Flow process, branch creation, publishing, and daily workflow management.
+
+• 17-Jan-2026 (Saturday): Completed Constructors, Instance vs Class Variables, Access Modifiers, this, static, final key words and instanceof operator Problems
+
+• 18-Jan-2026 (Sunday): Completed Object modelling, Class Diagram, and Inheritance problems
+
+• 19-Jan-2026 (Monday): Completed encapsulation problems
+
+• 20-Jan-2026 (Tuesday): Completed second review

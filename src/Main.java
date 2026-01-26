@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("Java Programs Started");
+        System.out.println("java program started");
     }
 }

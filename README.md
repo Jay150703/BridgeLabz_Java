@@ -53,3 +53,21 @@
 • 19-Jan-2026 (Monday): Completed encapsulation problems
 
 • 20-Jan-2026 (Tuesday): Completed second review
+
+• 21-Jan-2026 (Wednesday): Completed Linked list problems
+
+• 22-Jan-2026 (Thursday): Absent
+
+• 23-Jan-2026 (Friday): Absent
+
+• 24-Jan-2026 (Saturday): Absent
+
+• 26-Jan-2026 (Monday): Completed Stack, Queue, Hash map and Hashing functions problems
+
+• 27-Jan-2026 (Tuesday): Completed sorting algorithm problems
+
+• 28-Jan-2026 (Wednesday): Completed OOPS Banner App
+
+• 29-Jan-2026 (Thursday): Completed Factory Robot Hazard Analyzer application.
+
+• 30-Jan-2026 (Friday): Completed DSA

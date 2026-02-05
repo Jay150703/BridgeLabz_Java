@@ -71,3 +71,11 @@
 • 29-Jan-2026 (Thursday): Completed Factory Robot Hazard Analyzer application.
 
 • 30-Jan-2026 (Friday): Completed DSA
+
+• 31st-Jan-2026 (Saturday): Factory Robot Hazard Analyzer system
+
+• 2nd-Feb-2026 (Monday): Collection Framework - ArrayList, Linked List, Stack, Queue, Set, Map.
+
+• 3rd-Feb-2026 (Tuesday): OceanFleet App – Use Case–Driven OOPS & Data Structures Learning Project
+
+• 4th-Feb-2026 (Wednesday): I/O Stream - File, Object, ByteArray, Buffered, Reader/Writer.

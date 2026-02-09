@@ -79,3 +79,9 @@
 • 3rd-Feb-2026 (Tuesday): OceanFleet App – Use Case–Driven OOPS & Data Structures Learning Project
 
 • 4th-Feb-2026 (Wednesday): I/O Stream - File, Object, ByteArray, Buffered, Reader/Writer.
+
+• 5th-Feb-2026 (Thursday): Completed regex
+
+• 6th-Feb-2026 (Friday): Completed Java features
+
+• 7th-Feb-2026 (Saturday): Attended Soft skills meeting 

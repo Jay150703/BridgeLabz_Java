@@ -109,3 +109,59 @@
 • 20-Feb-2026 (Friday): Completed problems on annotation and design pattern and uploaded the code to GitHub.
 
 • 21-Feb-2026 (Saturday): Attended power skills session, gave a 3 minute speach on curiosity.
+
+• 23-Feb-2026 (Monday): Started DBMS concepts – Types of databases (Relational & Non-relational), use cases.
+
+• 24-Feb-2026 (Tuesday): Learned MySQL fundamentals – RDBMS, DDL, DML, ER Diagrams.
+
+• 25-Feb-2026 (Wednesday): Studied Table Indexing, Normalization Forms, and Joins.
+
+• 26-Feb-2026 (Thursday): Worked on Stored Procedures and Triggers.
+
+• 27-Feb-2026 (Friday): Introduction to JDBC and database connectivity.
+
+• 28-Feb-2026 (Saturday): Attended Soft Skills Session.
+
+• 02-Mar-2026 (Monday): Learned Tomcat server and Servlet fundamentals.
+
+• 03-Mar-2026 (Tuesday): Introduction to Spring Framework – Core concepts.
+
+• 04-Mar-2026 (Wednesday): Studied JSP, JSTL, and Spring MVC architecture.
+
+• 05-Mar-2026 (Thursday): Worked on Spring REST API – request handling and H2 database.
+
+• 06-Mar-2026 (Friday): Learned Distributed Architectures and REST API design principles.
+
+• 07-Mar-2026 (Saturday): Attended Soft Skills / Communication Session.
+
+• 09-Mar-2026 (Monday): Studied HTTP methods, status codes, and SDLC concepts.
+
+• 10-Mar-2026 (Tuesday): Learned JPA with Hibernate and integration with backend applications.
+
+• 11-Mar-2026 (Wednesday): Practiced Git workflow integration in backend projects.
+
+• 12-Mar-2026 (Thursday): Introduction to Spring Boot – setup and fundamentals.
+
+• 13-Mar-2026 (Friday): Developed REST APIs using Spring Boot and Controllers.
+
+• 14-Mar-2026 (Saturday): Attended Power Skills Session.
+
+• 16-Mar-2026 (Monday): Learned Dependency Injection and H2 database integration in Spring Boot.
+
+• 17-Mar-2026 (Tuesday): Worked on Spring REST APIs and Service layer implementation.
+
+• 18-Mar-2026 (Wednesday): Studied Spring Data JPA and database interaction.
+
+• 19-Mar-2026 (Thursday): Learned Spring JDBC and bean scopes.
+
+• 20-Mar-2026 (Friday): Worked on logging, Maven lifecycle, and API testing using Postman.
+
+• 21-Mar-2026 (Saturday): Attended Power Skills Session.
+
+• 23-Mar-2026 (Monday): Revision of Spring Boot concepts and backend integration.
+
+• 24-Mar-2026 (Tuesday): Practiced end-to-end REST API development using Spring Boot.
+
+• 25-Mar-2026 (Wednesday): Completed Spring Boot module (up to S.No 70).
+
+• 26-Mar-2026 (Thursday): Final revision of backend concepts and project-level understanding.
